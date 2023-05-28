@@ -5,7 +5,7 @@ Analyzing Enron Email dataset using python in google colab in order to learn abo
 # Assignment Structure
 Examine the schema of the database and understand the structure of the tables,
 SQL queries to extract relevant information from the tables provided,
-Making use of Pandas to load the query results into dataframes 
+Making use of Pandas to load the query results into dataframes,
 Making use of visualization 
 
 # Assignment Analysis
